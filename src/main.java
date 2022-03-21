@@ -9,6 +9,7 @@ public class main {
         System.out.println("What are you throwing? (rock, paper, or scissors");
         String myThrow = myScanner.nextLine();
 
+        System.out.println("Hi will!");
 
         System.out.println("You're throwing " + myThrow);
     }
